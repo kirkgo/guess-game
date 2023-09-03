@@ -1,10 +1,9 @@
-# guess-game
-Guess Game in Rust
+# Guessing Game
 
-To run this game just: 
+To run this game just run the following command below: 
 
 ```
 cargo run
 ```
-If you want to see the guess number, just uncomment line number 9. 
+If you want to see the secret number, just uncomment line number 9. 
 Have some fun! :)
