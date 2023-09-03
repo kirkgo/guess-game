@@ -1,6 +1,6 @@
 # Guessing Game
 
-To run this game just run the following command below: 
+To run this game just execute the following command below on your terminal: 
 
 ```
 cargo run
